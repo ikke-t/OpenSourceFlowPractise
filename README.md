@@ -77,6 +77,8 @@ If you go to command line, here are some typical commands needed:
   ```git fetch origin; git rebase -i origin/main```
 * Push changes to git portal ```git push```
 
+And when stuff goes wrong with git, [dangit!](https://dangitgit.com/)
+
 # Workflow for the organizer
 
 First it would be good to explain what is open source, and how the communities
