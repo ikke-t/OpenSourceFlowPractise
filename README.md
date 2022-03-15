@@ -40,7 +40,7 @@ git repository.
 
 So with this idea, let's go through the typical process steps:
 
-![process steps](steps.png)
+![process steps](./steps.png)
 
 1. Fork this repo (take a copy) (unless you already have this in your git)
 1a. Advanced: If you want to use issue tracker to report an issue, do it here.
