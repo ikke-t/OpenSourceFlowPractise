@@ -66,6 +66,7 @@ So with this idea, let's go through the typical process steps:
 
 If you go to command line, here are some typical commands needed:
 
+* To get help on git commands ```git help clone```
 * Copy the code to your workstation: ```git clone <url>```
 * Create your own branch ```git switch -c my_story```
 * Add file, or add changes ```git add <file>```
